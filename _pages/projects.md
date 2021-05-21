@@ -16,9 +16,8 @@ nav: true
 ## 🧑‍💻   Work Experience
 - **Reasearch Intern** at FacebookAI. Working with the Assistant team on Task-Oriented Dialogue Systems. 
 - **Reasearch Intern** at UberAI. Working with the Converational AI team on RL problems.
-- **Adjunct Lecturer** of Databases for Specialty School of Medical Physics of Pisa University.
+- **Research Assistant** at the Hong Kong University of Science and Technology.
 - **Mentor2017** the Pisa CoderDojo (Volunteer Activity).
-- **Research Assistant** at the Center of Health Informatics in the HKBU Computer Science Department.
 
 ## 🗃️   Professional Activity
 - **Tutorial** at NeurIPS 2020. "[Deeper Conversational AI](https://medium.com/@NeurIPSConf/tutorial-selections-for-neruips-2020-33b79f4915c4)" at NeurIPS 2020. 
