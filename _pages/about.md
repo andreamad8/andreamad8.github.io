@@ -6,7 +6,7 @@ description: <a href="https://hkust.edu.hk/home">HKUST</a>-<a href="https://hltc
 
 profile:
   align: right
-  image: AndreaBike.jpeg
+  image: Andrea.jpeg
   address: >
     <p>There can't be beauty and utility?</p>
     <p>- Leonardo da Vinci</p>

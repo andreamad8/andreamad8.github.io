@@ -8,7 +8,7 @@ nav: true
 
 
 ## 🎓   Education
-- Ph.D. Candidate in ECE at HKUST supervised by Prof. [Pascale Fung](https://en.wikipedia.org/wiki/Pascale_Fung).
+- Ph.D. in ECE at HKUST supervised by Prof. [Pascale Fung](https://en.wikipedia.org/wiki/Pascale_Fung).
 - M.Sc. in CS at Pisa University 110/110 Honours supervised by Prof. [Giuseppe Attardi](http://pages.di.unipi.it/attardi/).
 - M.Sc. in AIS at HKBU 3.89/4.0 Distintion supervised by Prof. [Jiming Liu](https://www.comp.hkbu.edu.hk/~jiming/).
 - B.Sc. in CS at Perugia University 110/110 Honours supervised by Prof. [Pinotti Maria Cristina](https://sites.google.com/view/cristinampinotti/home).
