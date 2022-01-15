@@ -7,21 +7,24 @@ nav: true
 ---
 
 
+## 🧑‍💻   Work Experience
+- **Reasearch Scientist** at Meta Reality Lab. 
+- **Reasearch Intern** at FacebookAI. Working with the Assistant team on Task-Oriented Dialogue Systems. 
+- **Reasearch Intern** at UberAI. Working with the Converational AI team on RL problems.
+- **Research Assistant** at the Hong Kong University of Science and Technology.
+- **Mentor2017** the Pisa CoderDojo (Volunteer Activity).
+
 ## 🎓   Education
 - Ph.D. in ECE at HKUST supervised by Prof. [Pascale Fung](https://en.wikipedia.org/wiki/Pascale_Fung).
 - M.Sc. in CS at Pisa University 110/110 Honours supervised by Prof. [Giuseppe Attardi](http://pages.di.unipi.it/attardi/).
 - M.Sc. in AIS at HKBU 3.89/4.0 Distintion supervised by Prof. [Jiming Liu](https://www.comp.hkbu.edu.hk/~jiming/).
 - B.Sc. in CS at Perugia University 110/110 Honours supervised by Prof. [Pinotti Maria Cristina](https://sites.google.com/view/cristinampinotti/home).
 
-## 🧑‍💻   Work Experience
-- **Reasearch Intern** at FacebookAI. Working with the Assistant team on Task-Oriented Dialogue Systems. 
-- **Reasearch Intern** at UberAI. Working with the Converational AI team on RL problems.
-- **Research Assistant** at the Hong Kong University of Science and Technology.
-- **Mentor2017** the Pisa CoderDojo (Volunteer Activity).
-
 ## 🗃️   Professional Activity
-- **Tutorial** at NeurIPS 2020. "[Deeper Conversational AI](https://medium.com/@NeurIPSConf/tutorial-selections-for-neruips-2020-33b79f4915c4)" at NeurIPS 2020. 
+- **General Chair** of the [Student Research Workshop 2022](https://sites.google.com/view/acl-srw-2022/organisers?authuser=0) (SRW 2022)
+- **Area Chair** of the ARR 2022 
 - **Reviewer** NAACL 2019, EMNLP 2019, ACL 2019, AAAI 2020, ACL 2020, EMNLP 2020, ICLR 2020, NeurIPS 2020, AAAI 2021, ICML 2021, NAACL 2021, and CSL.
+- **Tutorial** co-presenter of "[Deeper Conversational AI](https://medium.com/@NeurIPSConf/tutorial-selections-for-neruips-2020-33b79f4915c4)" at NeurIPS 2020. 
 
 ## 🏆   Awards
 - **PhD. Award 2020**: [SENG Academic Award](/assets/pdf/MADOTTO-Andrea-12232564.pdf) for Continuing PhD Students 2019-20.
