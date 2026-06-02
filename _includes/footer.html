@@ -11,9 +11,9 @@
 {% else %}
 <footer class="sticky-bottom mt-5">
   <div class="container">
-    {% if site.clustrmaps_id %}
+    {% if site.visitor_map_id %}
     <div class="text-center mb-2">
-      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d={{ site.clustrmaps_id }}&cl=ffffff&w=a"></script>
+      <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map_v2.js?d={{ site.visitor_map_id }}&cl=ffffff&w=a"></script>
     </div>
     {% endif %}
     &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}.
