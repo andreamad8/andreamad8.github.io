@@ -16,6 +16,7 @@ footer_text: >
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
+clustrmaps_id: # ClustrMaps visitor-map id. Sign up at https://clustrmaps.com, copy the `d=` value from your embed code, and paste it here (e.g. AbCdEf...). Leave blank to disable.
 
 # -----------------------------------------------------------------------------
 # Layout
