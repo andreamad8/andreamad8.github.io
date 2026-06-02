@@ -16,7 +16,7 @@ footer_text: >
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
-visitor_map_id: # MapMyVisitors visitor-map id. Sign up free at https://mapmyvisitors.com, copy the `d=` value from your embed snippet, and paste it here (a long token, e.g. xmc6i_SpmLS5...). Leave blank to disable.
+visitor_map_id: acS415O0nlUGQo3l9lefM6mIwuNLOEPbujsOUCXjWTQ # MapMyVisitors visitor-map id. Sign up free at https://mapmyvisitors.com, copy the `d=` value from your embed snippet, and paste it here (a long token, e.g. xmc6i_SpmLS5...). Leave blank to disable.
 
 # -----------------------------------------------------------------------------
 # Layout
